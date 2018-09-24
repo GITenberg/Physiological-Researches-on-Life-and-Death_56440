@@ -1,0 +1,39 @@
+_repo: Physiological-Researches-on-Life-and-Death_56440
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Magendie, Francois
+    gutenberg_agent_id: '48844'
+    url: http://www.gutenberg.org/2009/agents/48844
+  translators:
+  - agent_name: Gold, F.
+    gutenberg_agent_id: '48845'
+    url: http://www.gutenberg.org/2009/agents/48845
+  - agent_name: Hayward, George
+    gutenberg_agent_id: '48680'
+    url: http://www.gutenberg.org/2009/agents/48680
+creator:
+  author:
+    agent_name: Bichat, Xavier
+    aliases:
+    - Bichat, X. (Xavier)
+    - Bichat, Marie François Xavier
+    - Bichat, Marie Francois Xavier
+    - Bichat, F.-X. (François-Xavier)
+    birthdate: 1771
+    deathdate: 1802
+    gutenberg_agent_id: '47149'
+    url: http://www.gutenberg.org/2009/agents/47149
+description: ''
+gutenberg_issued: '2018-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Physiological Researches on Life and Death
+url: http://www.gutenberg.org/ebooks/56440
